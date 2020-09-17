@@ -1,7 +1,8 @@
 ---
 title: swiper 使用体验
 date: 2020-09-16 21:20:11
-tags:
+tags: js
+categories: 前端
 ---
 
 
